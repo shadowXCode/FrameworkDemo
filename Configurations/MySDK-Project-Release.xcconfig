@@ -1,0 +1,8 @@
+//
+//  MySDK-Project-Release.xcconfig
+//  MySDK
+//
+//  Created by Walker on 2016/12/13.
+//  Copyright © 2016年 Walker. All rights reserved.
+//
+#include "MySDK-Project.xcconfig"

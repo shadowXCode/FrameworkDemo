@@ -1,0 +1,38 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/Walker/Library/Developer/Xcode/DerivedData/MySDK-cpjbxyqcinknryfnmyefcmslezdj/Build/Products/Debug-iphonesimulator/MySDK.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "MySDK-Swift.h",
+          'external-contents': "/Users/Walker/Library/Developer/Xcode/DerivedData/MySDK-cpjbxyqcinknryfnmyefcmslezdj/Build/Products/Debug-iphonesimulator/MySDK.framework/Headers/MySDK-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "MySDK.h",
+          'external-contents': "/Users/Walker/Desktop/Demo/MySDK/MySDK/MySDK.h"
+        },
+        {
+          'type': 'file',
+          'name': "MySDKTest.h",
+          'external-contents': "/Users/Walker/Desktop/Demo/MySDK/MySDK/MySDKTest.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Walker/Library/Developer/Xcode/DerivedData/MySDK-cpjbxyqcinknryfnmyefcmslezdj/Build/Products/Debug-iphonesimulator/MySDK.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/Walker/Desktop/Demo/MySDK/build/MySDK.build/Debug-iphonesimulator/MySDK.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}
